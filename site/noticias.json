@@ -1,0 +1,107 @@
+{
+  "mode": "initial",
+  "checked": "2026-11-24",
+  "sources": {
+    "MTE": {
+      "state": "manual",
+      "message": "Seleção inicial verificada em 24/11/2026"
+    },
+    "STF": {
+      "state": "manual",
+      "message": "Seleção inicial verificada em 24/11/2026"
+    },
+    "TST": {
+      "state": "partial",
+      "message": "Consulta direta à jurisprudência disponível. Coleta de notícias sujeita à verificação de acesso; repositório institucional alternativo configurado."
+    },
+    "MPT": {
+      "state": "manual",
+      "message": "Publicações iniciais verificadas; coleta programada após publicação."
+    },
+    "TRTs": {
+      "state": "pending",
+      "message": "Fonte configurada; coleta automática pendente de publicação."
+    },
+    "CSJT": {
+      "state": "pending",
+      "message": "Fonte configurada; coleta automática pendente de publicação."
+    },
+    "CNJ": {
+      "state": "pending",
+      "message": "Fonte configurada; coleta automática pendente de publicação."
+    },
+    "eSocial": {
+      "state": "pending",
+      "message": "Fonte configurada; coleta automática pendente de publicação."
+    },
+    "FGTS Digital": {
+      "state": "manual",
+      "message": "Publicações iniciais verificadas; coleta programada após publicação."
+    }
+  },
+  "items": [
+    {
+      "source": "MTE",
+      "title": "Portaria traz regras complementares para a escala 5x2",
+      "date": "2026-11-23",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2/",
+      "kind": "Normas e relações de trabalho"
+    },
+    {
+      "source": "MTE",
+      "title": "Governo regulamenta jornada de trabalho na escala 5x2",
+      "date": "2026-11-19",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-do-brasil-regulamenta-jornada-de-trabalho-na-escala-5x2/",
+      "kind": "Normas e relações de trabalho"
+    },
+    {
+      "source": "FGTS Digital",
+      "title": "Nota Orientativa nº 12/2026 esclarece recolhimento do FGTS em processos trabalhistas",
+      "date": "2026-11-17",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/empregador/fgtsdigital/comunicados/nova-nota-orientativa-esclarece-recolhimento-do-fgts-em-processos-trabalhistas/",
+      "kind": "Comunicado técnico"
+    },
+    {
+      "source": "STF",
+      "title": "STF mantém regra de transição para a implementação da jornada 5x2",
+      "date": "2026-11-12",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-regra-de-transicao-para-implementacao-da-jornada-5x2/",
+      "kind": "Notícia de julgamento"
+    },
+    {
+      "source": "MPT",
+      "title": "Justiça garante seguro-desemprego a trabalhadores resgatados pelo MPT",
+      "date": "2026-11-10",
+      "url": "https://prt15.mpt.mp.br/procuradorias/prt-campinas/2-uncategorised/2031-em-decisao-pioneira-justica-garante-seguro-desemprego-a-trabalhadores-resgatados-pelo-mpt",
+      "kind": "Decisão judicial noticiada pelo MPT"
+    },
+    {
+      "source": "MTE",
+      "title": "MTE e Justiça do Trabalho firmam cooperação para compartilhar informações trabalhistas",
+      "date": "2026-11-09",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/mte-e-justica-do-trabalho-firmam-acordo-para-intercambio-de-informacoes-trabalhistas",
+      "kind": "Normas e relações de trabalho"
+    },
+    {
+      "source": "STF",
+      "title": "CNI questiona horas extras por falta de pausas térmicas",
+      "date": "2026-11-04",
+      "url": "https://noticias.stf.jus.br/postsnoticias/cni-questiona-pagamento-de-horas-extras-por-falta-de-pausas-termicas/",
+      "kind": "Ação ajuizada · não é decisão"
+    },
+    {
+      "source": "MPT",
+      "title": "MPT obtém liminar para coibir assédio eleitoral em empresa",
+      "date": "2026-11-04",
+      "url": "https://prt2.mpt.mp.br/1387-mpt-obtem-liminar-para-coibir-assedio-eleitoral-em-empresa",
+      "kind": "Liminar judicial noticiada pelo MPT"
+    },
+    {
+      "source": "MPT",
+      "title": "Liminar determina retratação pública por incitação à discriminação política",
+      "date": "2026-11-04",
+      "url": "https://www.prt4.mpt.mp.br/procuradorias/ptm-pelotas/12955-liminar-obtida-pelo-mpt-obriga-empresario-de-bage-a-se-retratar-publicamente-por-incitacao-a-discriminacao-politica",
+      "kind": "Liminar judicial noticiada pelo MPT"
+    }
+  ]
+}
