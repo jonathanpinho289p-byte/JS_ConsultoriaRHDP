@@ -10,4 +10,4 @@ A Netlify publica apenas a pasta `site/`, conforme `netlify.toml`. O site é est
 
 - `site/index.html` reúne a página, os estilos e os scripts.
 - `site/noticias.json` contém a seleção de notícias exibida no radar. Esta versão não executa coleta automática.
-- O formulário de recrutamento está em modo de demonstração e não recebe cadastros.
+- O formulário do Banco de Talentos está integrado ao Formspree. O recebimento deve ser validado após a publicação. A política prevê conservação por até seis meses, salvo obrigação legal de conservação por prazo diferente; a JS deve aprovar e aplicar esse prazo aos dados no Formspree e no e-mail.
